@@ -1,5 +1,5 @@
 # Project Roadmap
-# Load & Explore Data
+# 1. Load & Explore Data
 
 Read the dataset from the Excel file.
 
